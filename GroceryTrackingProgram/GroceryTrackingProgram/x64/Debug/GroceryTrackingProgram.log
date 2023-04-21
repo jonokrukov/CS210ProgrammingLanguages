@@ -1,0 +1,4 @@
+﻿  GroceryTracker.cpp
+C:\Users\gamej\source\repos\GroceryTrackingProgram\GroceryTrackingProgram\GroceryTracker.cpp(28,19): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\gamej\source\repos\GroceryTrackingProgram\GroceryTrackingProgram\GroceryTracker.cpp(28,15): warning C4309: 'initializing': truncation of constant value
+  GroceryTrackingProgram.vcxproj -> C:\Users\gamej\source\repos\GroceryTrackingProgram\x64\Debug\GroceryTrackingProgram.exe
